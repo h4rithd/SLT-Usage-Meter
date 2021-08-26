@@ -1,0 +1,64 @@
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\SLT Usage Meter.exe.config
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\SLT Usage Meter.exe
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\SLT Usage Meter.pdb
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.csprojResolveAssemblyReference.cache
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT_Usage_Meter.Form1.resources
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT_Usage_Meter.Properties.Resources.resources
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.csproj.GenerateResource.Cache
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.exe
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.pdb
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\HtmlRenderer.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\HtmlRenderer.WinForms.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.Data.OData.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.Hadoop.WebClient.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Newtonsoft.Json.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Net.Http.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Spatial.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\HtmlRenderer.pdb
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\HtmlRenderer.WinForms.pdb
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.Data.OData.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\Newtonsoft.Json.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Net.Http.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\System.Spatial.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\de\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\es\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\it\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\SLT Usage Meter.exe.manifest
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\bin\Debug\SLT Usage Meter.application
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.TrustInfo.xml
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.exe.manifest
+c:\users\#shap_manasick ^_^\documents\visual studio 2015\Projects\SLT Usage Meter\SLT Usage Meter\obj\Debug\SLT Usage Meter.application
